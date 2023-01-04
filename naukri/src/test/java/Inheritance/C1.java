@@ -5,7 +5,6 @@ class A1{
 	System.out.println("run 5 kms");
 }
 }
-
 class B1 extends A1
 {
 	public void run() {
