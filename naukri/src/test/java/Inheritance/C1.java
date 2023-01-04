@@ -21,5 +21,7 @@ public static void main(String[] args) {
 	A1 o2 = new B1();
 	o2.run();
 	
+	C2 k1 = new C2();
+	k1.run();
 }
 }
